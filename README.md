@@ -4,4 +4,4 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 
 Note: Use Python version: 3.8.5
 
-#Features
+
